@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WMU-MD</string>
+
+    <string-array name="tabs">
+        <item>Alarm</item>
+        <item>Clock</item>
+        <item>Timer</item>
+    </string-array>
+
+
+
+</resources>
